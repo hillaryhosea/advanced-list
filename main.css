@@ -1,6 +1,6 @@
 :root 
 {
-    --clr-primary: rgb(25, 230, 245);
+    --clr-primary: rgb(25, 186, 245);
     --clr-light: #f4f4f4;
     --clr-dark: #333;
     --clr-warning: rgb(99, 36, 36);
@@ -121,7 +121,7 @@ form
 {
     background: transparent;
     border: 0;
-    color: white;
+    color: rgb(60, 53, 53);
     border-bottom: 1px solid currentColor;
     font-size: inherit;
     outline: none;
